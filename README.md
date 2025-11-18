@@ -240,37 +240,19 @@ meet_id topic date time participant_count emp_id_1 emp_id_2 ...
 ### **Mudassir Abrar Baig**
 
 **Roll No:** BCF23M035
-**Responsibilities:**
-
-* Developed **department module** (`department.cpp`)
-* Capacity handling
-* Top performer & average performance logic
-* Department file I/O
 
 ---
 
 ### **Abdul Rahman Bin Abid**
 
 **Roll No:** BCSF24M021
-**Responsibilities:**
-
-* Built **meeting module** (`meeting.cpp`)
-* Meeting creation & validation
-* Participant handling
-* Clash detection
-* Organized & formatted documentation
 
 ---
 
 ### **Zainab Irfan**
 
 **Roll No:** BCSF24M013
-**Responsibilities:**
 
-* Developed **employee module** (`employee.cpp`)
-* Employee CRUD, bonus logic
-* Department linking
-* Menu design in `main.cpp`
 
 ---
 
